@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(20, 50, 51);
+    color: rgb(56, 11, 11);
+    justify-content: center ;
+    align-items: center;
+   
+}
+.con{
+    margin :auto;
+    width: 700px;
+    height: 700px;
+    border-radius: 20px;
+    background-color: rgb(16, 222, 222);
+    justify-content: center ;
+    align-items: center;
+    align-content: center;
+    box-shadow:  10px -15px 50px  rgb(98, 156, 15), 20px 15px 50px rgb(14, 135, 66), -10px 20px 50px rgb(16, 142, 71);
+    
+
+}
+.contain{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: rgb(43, 166, 166);
+    justify-content: center ;
+    align-items: center;
+    align-content: center;
+    box-shadow:  10px -15px 50px  rgb(173, 245, 73), 20px 15px 50px rgb(21, 206, 101), -10px 20px 50px rgb(21, 206, 101);
+
+}
+.container{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border: 2px solid rgb(90, 33, 33);
+    border-radius: 20px;
+    background-color: rgb(102, 208, 208);
+    justify-content: center ;
+    align-items: center;
+    align-content: center;
+    box-shadow:  10px -15px 50px  rgb(173, 245, 73), 20px 15px 50px rgb(21, 206, 101), -10px 20px 50px rgb(21, 206, 101);
+
+}
+.box{
+    width: 80px;
+    height: 80px;
+    margin: 2px;
+}
+#grey{
+    background-color: grey;
+    margin-left: 30px;
+}
+#blue{
+    background-color: blue;
+}
+#yelow{
+    background-color: yellow;
+}
+#white{
+    background-color: white;
+}
+
+h1{
+    margin-left:12%;
+}
+p{
+    font-size: 20px;
+    margin: 50px;
+
+}
