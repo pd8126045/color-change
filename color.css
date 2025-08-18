@@ -5,8 +5,10 @@
 body{
     background-color: rgb(20, 50, 51);
     color: rgb(56, 11, 11);
+    display: flex;
     justify-content: center ;
     align-items: center;
+    flex-wrap: wrap;
    
 }
 .con{
@@ -15,12 +17,12 @@ body{
     height: 700px;
     border-radius: 20px;
     background-color: rgb(16, 222, 222);
+    display: flex;
     justify-content: center ;
     align-items: center;
+    flex-wrap: wrap;
     align-content: center;
     box-shadow:  10px -15px 50px  rgb(98, 156, 15), 20px 15px 50px rgb(14, 135, 66), -10px 20px 50px rgb(16, 142, 71);
-    
-
 }
 .contain{
     width: 600px;
@@ -28,8 +30,10 @@ body{
     margin: auto;
     border-radius: 20px;
     background-color: rgb(43, 166, 166);
+    display:flex ;
     justify-content: center ;
     align-items: center;
+    flex-wrap: wrap;
     align-content: center;
     box-shadow:  10px -15px 50px  rgb(173, 245, 73), 20px 15px 50px rgb(21, 206, 101), -10px 20px 50px rgb(21, 206, 101);
 
@@ -41,8 +45,10 @@ body{
     border: 2px solid rgb(90, 33, 33);
     border-radius: 20px;
     background-color: rgb(102, 208, 208);
+    display:flex;
     justify-content: center ;
     align-items: center;
+    flex-wrap: wrap;
     align-content: center;
     box-shadow:  10px -15px 50px  rgb(173, 245, 73), 20px 15px 50px rgb(21, 206, 101), -10px 20px 50px rgb(21, 206, 101);
 
